@@ -1,0 +1,9 @@
+.hello::before {
+  content: "★";
+  color: green;
+}
+
+.hello::after {
+  content: "▶︎";
+  color: red;
+}
